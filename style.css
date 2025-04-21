@@ -37,6 +37,22 @@ header p {
     border: 5px solid #fff;
 }
 
+.profile-pic.circular {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+}
+
+.brand-logo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;
+}
+
 section {
     padding: 4rem 0;
 }
